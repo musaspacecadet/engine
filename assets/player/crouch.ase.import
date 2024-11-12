@@ -1,0 +1,14 @@
+[remap]
+
+importer="aseprite_wizard.plugin.noop"
+type="PackedDataContainer"
+uid="uid://wmr6sj0kpam2"
+path="res://.godot/imported/crouch.ase-7066d107abf56c559b0a9413cd896f55.res"
+
+[deps]
+
+source_file="res://assets/player/crouch.ase"
+dest_files=["res://.godot/imported/crouch.ase-7066d107abf56c559b0a9413cd896f55.res"]
+
+[params]
+
